@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+"""evelandy/W.G.
+Nov. 29 2018 7:16pm
+text-based-temperature-converter
+Python36-32 
+"""
 def celsius(fahr):
     return "{} degrees fahrenheit converted is {} degrees celsius".format(temp, int((5 / 9) * (fahr - 32)))
 
